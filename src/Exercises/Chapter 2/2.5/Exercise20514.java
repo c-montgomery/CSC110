@@ -1,0 +1,1 @@
+double precise = 1.09388641;

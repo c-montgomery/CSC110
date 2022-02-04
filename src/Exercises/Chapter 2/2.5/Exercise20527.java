@@ -1,0 +1,2 @@
+int profitStartOfQuarter;
+int cashFlowEndOfYear;
