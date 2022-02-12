@@ -1,0 +1,3 @@
+double placeholder = bestValue;
+bestValue = secondBestValue;
+secondBestValue = placeholder;

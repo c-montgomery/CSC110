@@ -1,0 +1,4 @@
+itemp = i;
+jtemp = j;
+i = jtemp;
+j = itemp;

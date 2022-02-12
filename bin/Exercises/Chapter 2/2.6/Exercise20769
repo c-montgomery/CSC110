@@ -1,0 +1,5 @@
+int temp = pos1;
+pos1 = pos2;
+pos2 = pos3;
+pos3 = pos4;
+pos4 = temp;
